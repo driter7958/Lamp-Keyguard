@@ -1,8 +1,8 @@
 # SEYMAC LWFT Lamp Key Guard
 
-# 🚧 Website and respoitory Under Construction 🚧
+# 🚧 Website and Repository Under Construction 🚧
 
-## Thank you for visiting our reposity website!
+## Thank you for visiting our repository website!
 
 We are currently working hard to bring you a new and improved online experience. Our website is undergoing maintenance and will be back online shortly. Please check back soon!
 
@@ -12,7 +12,7 @@ In the meantime, you can reach us through the following channels:
 - **Phone:** +1 (234) 567-8901
 - **Social Media:** Follow us on [Twitter](https://twitter.com/yourprofile) and [Facebook](https://facebook.com/yourprofile) for updates.
 
-![Under Construction](https://via.placeholder.com/600x400?text=Website+Under+Construction)
+![Under Construction](/Building_under_Construction_7_generated.jpg)
 
 ### What to Expect:
 - A fresh new design
