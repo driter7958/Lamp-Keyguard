@@ -1,5 +1,33 @@
 # SEYMAC LWFT Lamp Key Guard
 
+# 🚧 Website and respoitory Under Construction 🚧
+
+## Thank you for visiting our reposity website!
+
+We are currently working hard to bring you a new and improved online experience. Our website is undergoing maintenance and will be back online shortly. Please check back soon!
+
+In the meantime, you can reach us through the following channels:
+
+- **Email:** [info@example.com](mailto:info@example.com)
+- **Phone:** +1 (234) 567-8901
+- **Social Media:** Follow us on [Twitter](https://twitter.com/yourprofile) and [Facebook](https://facebook.com/yourprofile) for updates.
+
+![Under Construction](https://via.placeholder.com/600x400?text=Website+Under+Construction)
+
+### What to Expect:
+- A fresh new design
+- Improved user experience
+- More content and resources
+
+Thank you for your patience and understanding!
+
+---
+
+**[Home](#)** | **[About Us](#)** | **[Contact](#)**
+
+![Logo](https://via.placeholder.com/150x150?text=Your+Logo)
+
+
 ## Overview
 The SEYMAC LWFT Lamp Key Guard is designed to aid children in using their tablets or mobile devices safely and comfortably. It provides a protective barrier between the child's fingers and the device's screen, preventing accidental taps or unauthorized access to apps. Additionally, the lamp feature provides soft, non-intrusive lighting, making it easier for children to use their devices in low-light conditions without straining their eyes.
 
@@ -37,3 +65,6 @@ The SEYMAC LWFT Lamp Key Guard is intended to aid children in using their tablet
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+
+
